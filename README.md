@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, welcome to my Home 👋
 
 <!--
 **Misterser1/Misterser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="100"/>
+</div>
+<div id="header2" align="center">
+  <b>Java & Spring</b>
+</div>
