@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 ## ⚙️ My life
-Programmer with big plans for life. Backend Developer and just a good person
+Programmer with big plans for life. Backend Developer and just a good person 😉
 
 ## </> Stack
 <div id="stack">
