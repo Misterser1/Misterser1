@@ -26,12 +26,28 @@ Programmer with big plans for life. Backend Developer and just a good person ðŸ˜
 
 ## </> Stack
 <div id="stack">
-  <img href="https://ru.w3docs.com/" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="100"/>
+  <a href="https://www.java.com/ru/">
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="100"/>
+  </a>
+  <a href="https://spring.io/">
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="100"/>
+  </a>
+  <a href="https://www.postgresql.org/">
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="100"/>
+  </a>
+  <a href="https://httpd.apache.org/">
   <img src="https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png&color=000000" width="100"/>
+  </a>
+  <a href="https://github.com/session">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="100"/>
+  </a>
+  <a href="https://www.docker.com/">
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="100"/>
+  </a>
+  <a href="https://kafka.apache.org/">
   <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" width="100"/>
+  </a>
+  <a href="https://hibernate.org/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_171004.png" width="100"/>
+  </a>
 </div>
