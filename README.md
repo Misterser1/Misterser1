@@ -26,9 +26,7 @@ Programmer with big plans for life. Backend Developer and just a good person ðŸ˜
 
 ## </> Stack
 <div id="stack">
-  <a href="https://www.java.com/ru/" style="text-decoration: none; border: none;">
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="100"/>
-  </a>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="100" style="cursor: pointer;" onclick="window.location.href='https://www.java.com/ru/';"/>
   <a href="https://spring.io/" style="text-decoration: none; border: none;">
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="100"/>
   </a>
