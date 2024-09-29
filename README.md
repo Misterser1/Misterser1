@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Programmer with big plans for life. Backend Developer and just a good person 😉
 
 ## </> Stack
-<div id="stack" style="text-decoration: none;>
+<div id="stack">
     <a href="https://www.java.com/ru/" style="text-decoration: none;>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="100">
     <a/>
