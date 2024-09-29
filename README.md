@@ -52,7 +52,3 @@ Programmer with big plans for life. Backend Developer and just a good person ðŸ˜
 </a>
 </div>
 
-#a_r {
-text-decoration: none;
-}
-
