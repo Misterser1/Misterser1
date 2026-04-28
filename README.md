@@ -1,4 +1,4 @@
-## Hi welcome to my Home <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/wink.gif?raw=true" width="40" align="center"/>
+## Hi <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/wink.gif?raw=true" width="40" align="center"/>
 
 <!--
 **Misterser1/Misterser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <b>Java & Spring</b>
 </div>
 
-## ⚙️ My life
-Programmer with big plans for life. Backend Developer and just a good person 😉
+## ⚙️About
+Fullstack-developer
 
 ## </> Stack
 <div id="stack">
